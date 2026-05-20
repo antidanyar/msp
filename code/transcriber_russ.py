@@ -1,5 +1,6 @@
 #!usr/bin/env python3
 # -*- coding: utf-8 -*-
+# taken from https://github.com/gouskova/transcribers
 
 '''this module supplies functions and options for converting Russian Cyrillic into IPA, with or without voicing rules and unstressed vowel reduction as in the standard (Moscow) dialect. It will also convert the orthography to a pseudotranscription compatible with the Minimal Generalization Learner as well as the UCLA Phonotactic Learner.
 
